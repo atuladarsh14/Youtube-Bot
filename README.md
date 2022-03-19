@@ -23,7 +23,7 @@
 **File size more then 2gb won't be downloaded due to telegram policy**
 
 ## Prerequisite: 
-* [ffmpeg](https://github.com/mastermindvrtx/heroku-buildpack-ffmpeg-latest.git) 
+* [ffmpeg](https://github.com/atuladarsh14/heroku-buildpack-ffmpeg-latest.git) 
   
     
 ## Dependencies:
